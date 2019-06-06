@@ -1,0 +1,18 @@
+{
+  "name": "commitlint-config-wnqueiroz",
+  "version": "1.0.0",
+  "description": "Configurações comuns compartilhadas para o pacote commitlint",
+  "main": "index.js",
+  "keywords": [
+    "commitlint",
+    "wnqueiroz",
+    "git",
+    "lint"
+  ],
+  "author": "William Queiroz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wnqueiroz/commitlint-config-wnqueiroz.git"
+  }
+}
